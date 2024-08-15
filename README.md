@@ -1,5 +1,5 @@
-# demoHtml
-A Demo HTML Site from the Computing Fundamentals Course
+# Our Solar System
+A Demo HTML Site for Solar System
 
 # Author
 Saketh
